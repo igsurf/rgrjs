@@ -1,0 +1,25 @@
+{
+  "name": "rgrjs",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "babel-node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/igsurf/rgrjs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/igsurf/rgrjs/issues"
+  },
+  "homepage": "https://github.com/igsurf/rgrjs#readme",
+  "dependencies": {
+    "babel-cli": "^6.26.0",
+    "express": "^4.16.2"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0"
+  }
+}
